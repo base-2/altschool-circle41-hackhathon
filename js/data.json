@@ -1,0 +1,162 @@
+[
+    {
+        "number": "0703",
+        "provider": "MTN"
+    },
+    {
+        "number": "0706",
+        "provider": "MTN"
+    },
+    {
+        "number": "0803",
+        "provider": "MTN"
+    },
+    {
+        "number": "0806",
+        "provider": "MTN"
+    },
+    {
+        "number": "0810",
+        "provider": "MTN"
+    },
+    {
+        "number": "0813",
+        "provider": "MTN"
+    },
+    {
+        "number": "0814",
+        "provider": "MTN"
+    },
+    {
+        "number": "0816",
+        "provider": "MTN"
+    },
+    {
+        "number": "0903",
+        "provider": "MTN"
+    },
+    {
+        "number": "0906",
+        "provider": "MTN"
+    },
+    {
+        "number": "0705",
+        "provider": "GLO"
+    },
+    {
+        "number": "0805",
+        "provider": "GLO"
+    },
+    {
+        "number": "0807",
+        "provider": "GLO"
+    },
+    {
+        "number": "0811",
+        "provider": "GLO"
+    },
+    {
+        "number": "0815",
+        "provider": "GLO"
+    },
+    {
+        "number": "0905",
+        "provider": "GLO"
+    },
+    {
+        "number": "0701",
+        "provider": "AIRTEL"
+    },
+    {
+        "number": "0708",
+        "provider": "AIRTEL"
+    },
+    {
+        "number": "0802",
+        "provider": "AIRTEL"
+    },
+    {
+        "number": "0808",
+        "provider": "AIRTEL"
+    },
+    {
+        "number": "0812",
+        "provider": "AIRTEL"
+    },
+    {
+        "number": "0901",
+        "provider": "AIRTEL"
+    },
+    {
+        "number": "0902",
+        "provider": "AIRTEL"
+    },
+    {
+        "number": "0907",
+        "provider": "AIRTEL"
+    },
+    {
+        "number": "0809",
+        "provider": "9MOBILE"
+    },
+    {
+        "number": "0817",
+        "provider": "9MOBILE"
+    },
+    {
+        "number": "0818",
+        "provider": "9MOBILE"
+    },
+    {
+        "number": "0908",
+        "provider": "9MOBILE"
+    },
+    {
+        "number": "0909",
+        "provider": "9MOBILE"
+    },
+    {
+        "number": "07028",
+        "provider": "STARCOMMS"
+    },
+    {
+        "number": "07029",
+        "provider": "STARCOMMS"
+    },
+    {
+        "number": "0819",
+        "provider": "STARCOMMS"
+    },
+    {
+        "number": "07025",
+        "provider": "VISAPHONE"
+    },
+    {
+        "number": "07026",
+        "provider": "VISAPHONE"
+    },
+    {
+        "number": "0704",
+        "provider": "VISAPHONE"
+    },
+    {
+        "number": "07027",
+        "provider": "MULTILINKS"
+    },
+    {
+        "number": "0709",
+        "provider": "MULTILINKS"
+    },
+    {
+        "number": "0707",
+        "provider": "ZOOM-MOBILE"
+    },
+    {
+        "number": "0804",
+        "provider": "INTEL"
+    },
+    {
+        "number": "0702",
+        "provider": "SMILE"
+    }
+]
